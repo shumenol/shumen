@@ -1,0 +1,4 @@
+[Version]
+local=1.0.0
+ui=1.0.0
+model=1.0.0

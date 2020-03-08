@@ -1,0 +1,4 @@
+[BANLIST]
+MAC = 
+QQ = 
+IP=
